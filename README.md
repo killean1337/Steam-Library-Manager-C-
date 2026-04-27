@@ -34,7 +34,6 @@ main.cpp → CLI interface
 
 ## How to run
 
-```bash
 g++ main.cpp Game.cpp Library.cpp -o app
 ./app
 
