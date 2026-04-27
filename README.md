@@ -37,13 +37,13 @@ main.cpp → CLI interface
 g++ main.cpp Game.cpp Library.cpp -o app
 ./app
 
-What I learned
+## What I learned
 Object-Oriented Programming in C++
 Using STL containers
 Structuring multi-file projects
 Building CLI applications
 
-Future improvements
+## Future improvements
 File saving/loading system
 Better filtering (genre, status)
 Improved UI output formatting
